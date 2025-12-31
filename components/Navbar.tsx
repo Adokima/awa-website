@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react";
 
-export default function Navbar() {
+export default function Navbaa() {
   const [isOpen, setIsOpen] = useState(false);
 
   // Prevent scrolling when mobile menu is open
